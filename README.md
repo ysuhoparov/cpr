@@ -1,3 +1,7 @@
 # cpr
 Cpr example
-(учебные задачи - заготовки)
+
+
+https://github.com/libcpr/cpr
+
+(заготовки)
